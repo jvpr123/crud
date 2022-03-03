@@ -1,0 +1,17 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jvpr123/crud.git",
+  "author": "João Victor P. Rodrigues <jvpr123@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon ./src/index.js --inspect"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
